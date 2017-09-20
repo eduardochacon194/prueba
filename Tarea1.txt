@@ -1,0 +1,5 @@
+El trabajo esta divido por clases donde cada clase es una tarea
+y una clase main desde donde se inicia el programa
+al iniciar tiene el titula de la tarea y la dimencion del arreglo
+que se desea ingresar, al ingresar el numero de la dimencion se despliega la tarea 
+que corresponde con el numero
